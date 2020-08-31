@@ -2,7 +2,7 @@ def base_hash
   {:railroads => "1"}
   base_hash = {
     :railroads => {
-      ""
+      "1"
     }
   }
 
