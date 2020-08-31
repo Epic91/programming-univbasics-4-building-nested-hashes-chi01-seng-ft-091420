@@ -1,6 +1,5 @@
 def base_hash
   {:railroads => "one key"}
-  "one key"[:railroads]
 
 
 
