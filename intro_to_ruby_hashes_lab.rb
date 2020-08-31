@@ -5,7 +5,7 @@ def base_hash
 end
 
 def monopoly_with_second_tier
-    {:railroads => "one key", :pieces => "4"}
+    {:railroads => "one key"}
     new_hash = {:railroads => {}, :pieces => {}}
     new_hash
   # When you start writing the implementation for this method, copy the Hash
