@@ -1,6 +1,7 @@
 def base_hash
   {:railroads => "one key"}
-  new_hash = :railroads = {"one key"}
+  new_hash = {:railroads = "one key"}
+
 
 
 
