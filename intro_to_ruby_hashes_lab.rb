@@ -2,8 +2,6 @@ def base_hash
   {:railroads => "one key"}
   new_hash = {:railroads => {}}
   new_hash
-
-
 end
 
 def monopoly_with_second_tier
